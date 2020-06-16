@@ -1,0 +1,5 @@
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\DOMAIN\obj\Debug\DOMAIN.pdb

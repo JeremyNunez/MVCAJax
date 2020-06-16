@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.dll.config
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.dll
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.pdb
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\bin\Debug\DOMAIN.dll
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\bin\Debug\DOMAIN.pdb
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csprojAssemblyReference.cache
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.CopyComplete
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.dll
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.pdb
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.Migrations.v2.resources
+C:\Users\user\Downloads\MVCAJAX-Lab12-master\MVCAJAX-Lab12-master\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.GenerateResource.cache
